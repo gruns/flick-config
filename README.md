@@ -1,1 +1,1 @@
-my flick application shortcuts and configuration
+my flick application shortcuts
