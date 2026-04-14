@@ -1,0 +1,170 @@
+[
+  {
+    "app": "claude",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "g"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "iphone mirroring",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "m"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "whatsapp",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "w"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "telegram lite",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "l"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "emacs",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "e"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "chrome",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "f"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "telegram",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "t"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "spotify",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "s"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "signal",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "i"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "firefox",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "o"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "brave",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "b"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "notion",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "n"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "slack",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "d"
+    },
+    "centerMouse": true,
+    "enabled": true
+  },
+  {
+    "app": "chatgpt",
+    "hotkey": {
+      "ctrl": true,
+      "alt": false,
+      "shift": false,
+      "cmd": false,
+      "key": "c"
+    },
+    "centerMouse": true,
+    "enabled": true
+  }
+]
